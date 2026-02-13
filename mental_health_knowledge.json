@@ -1,0 +1,227 @@
+{
+  "knowledge_base": {
+    "anxiety": {
+      "keywords": ["anxiety", "anxious", "worried", "panic", "fear", "nervous"],
+      "definition": "Anxiety is your body's natural response to stress, involving worry, fear, and physical symptoms like racing heart, sweating, or difficulty breathing.",
+      "types": ["Generalized Anxiety Disorder (constant worry)", "Social Anxiety (fear of social situations)", "Panic Disorder (sudden panic attacks)", "Phobias (fear of specific things)"],
+      "root_causes": ["Stress and pressure", "Lack of sleep", "Caffeine or stimulants", "Past trauma", "Financial worries", "Health concerns", "Major life changes"],
+      "impacts": ["Sleep disruption", "Difficulty concentrating", "Physical tension", "Avoiding situations", "Relationship strain", "Reduced productivity"],
+      "immediate_relief": [
+        "4-7-8 breathing: Inhale for 4, hold for 7, exhale for 8",
+        "Grounding technique: Name 5 things you see, 4 you hear, 3 you touch, 2 you smell, 1 you taste",
+        "Physical movement: Walk, stretch, or exercise",
+        "Cold water on face: Splash cold water to reset nervous system",
+        "Talk to someone: Call a friend or family member"
+      ],
+      "long_term_solutions": [
+        "Regular exercise: 30 minutes daily reduces anxiety by 20%",
+        "Meditation: 10-15 minutes daily",
+        "Limit caffeine and alcohol",
+        "Maintain sleep schedule: 7-8 hours nightly",
+        "Journaling: Write thoughts and feelings",
+        "Cognitive Behavioral Therapy (CBT): Professional help",
+        "Social connection: Regular time with friends",
+        "Limit news and social media consumption"
+      ],
+      "when_to_seek_help": "Anxiety that lasts 2+ weeks, interferes with daily life, causes panic attacks, or prevents you from working/socializing",
+      "resources": ["Anxiety & Depression Association of America", "7 Cups (free emotional support)", "Headspace or Calm app"]
+    },
+
+    "depression": {
+      "keywords": ["depression", "depressed", "sad", "hopeless", "empty", "dark", "suicidal"],
+      "definition": "Depression is a mood disorder causing persistent sadness, loss of interest in activities, and difficulty with daily functioning. It's more than just feeling sad.",
+      "types": ["Major Depressive Disorder (severe, lasting)", "Persistent Depressive Disorder (chronic, lower intensity)", "Bipolar Depression (alternating with highs)", "Seasonal Affective Disorder (related to seasons)"],
+      "root_causes": ["Loss or grief", "Stress or trauma", "Chemical imbalance in brain", "Sleep deprivation", "Isolation", "Health conditions", "Substance use", "Hormonal changes"],
+      "impacts": ["Loss of interest in activities you enjoyed", "Sleep changes (too much or too little)", "Appetite changes", "Fatigue and low energy", "Difficulty concentrating", "Feelings of worthlessness", "Social withdrawal"],
+      "immediate_relief": [
+        "Get sunlight: 15-30 minutes outdoors (increases serotonin)",
+        "Move your body: Even 10-minute walk helps",
+        "Eat something nourishing: Blood sugar affects mood",
+        "Reach out: Call or text someone",
+        "Do one small thing: Shower, make bed, brush teeth",
+        "Limit isolation: Get around people, even online"
+      ],
+      "long_term_solutions": [
+        "Daily routine: Wake, sleep, eat at consistent times",
+        "Exercise: 3-5 times weekly (as effective as some antidepressants)",
+        "Social connection: Weekly meaningful interaction",
+        "Professional help: Therapy or medication",
+        "Reduce alcohol and drugs",
+        "Challenge negative thoughts: Question 'I'm worthless'",
+        "Set small achievable goals",
+        "Nature time: Parks, gardens, outdoor activities"
+      ],
+      "when_to_seek_help": "URGENT if suicidal thoughts, self-harm urges, or unable to care for yourself. Otherwise, if lasting 2+ weeks despite self-care efforts",
+      "resources": ["National Suicide Prevention Lifeline: 988", "Crisis Text Line: Text HOME to 741741", "BetterHelp or Talkspace"]
+    },
+
+    "stress": {
+      "keywords": ["stress", "stressed", "overwhelmed", "pressure", "busy", "exhausted", "burnt out"],
+      "definition": "Stress is your body's reaction to demands or threats. Short-term stress can be helpful, but chronic stress damages physical and mental health.",
+      "types": ["Acute stress (temporary)", "Chronic stress (ongoing)", "Work stress", "Relationship stress", "Financial stress", "Health-related stress"],
+      "root_causes": ["Work deadlines or conflicts", "Relationship issues", "Financial problems", "Health concerns", "Major life changes", "Perfectionism", "Lack of control", "Sleep deprivation"],
+      "impacts": ["High blood pressure", "Headaches and muscle tension", "Weakened immunity", "Digestive issues", "Sleep problems", "Difficulty focusing", "Irritability", "Anxiety or depression"],
+      "immediate_relief": [
+        "Deep breathing: Slow, deep breaths for 2-3 minutes",
+        "Progressive muscle relaxation: Tense and release each muscle group",
+        "Take a break: Step away from stressor for 15 minutes",
+        "Physical activity: Brief exercise releases endorphins",
+        "Laugh: Watch funny videos or call a friend",
+        "Warm bath or shower: Relaxes body and mind"
+      ],
+      "long_term_solutions": [
+        "Identify stressors: What specifically is causing stress?",
+        "Set boundaries: Learn to say no",
+        "Time management: Prioritize and break tasks into steps",
+        "Regular exercise: 4-5 times weekly",
+        "Adequate sleep: 7-9 hours nightly",
+        "Hobbies and relaxation: Daily enjoyable activities",
+        "Social support: Regular connection with loved ones",
+        "Consider therapy: Learn stress management techniques"
+      ],
+      "when_to_seek_help": "If stress causes physical symptoms, doesn't improve with self-care, or affects work/relationships for more than a month",
+      "resources": ["Stress Management Society", "Yoga or meditation classes", "Employee Assistance Programs (EAP)"]
+    },
+
+    "sleep_issues": {
+      "keywords": ["sleep", "insomnia", "can't sleep", "tired", "exhausted", "nightmares", "restless"],
+      "definition": "Sleep issues range from difficulty falling/staying asleep to poor sleep quality. Consistent poor sleep impacts every aspect of health and mood.",
+      "types": ["Insomnia (difficulty falling or staying asleep)", "Sleep apnea (breathing interruptions)", "Restless leg syndrome", "Nightmares or night terrors", "Oversleeping"],
+      "root_causes": ["Stress and anxiety", "Irregular sleep schedule", "Caffeine, alcohol, or screens before bed", "Uncomfortable environment", "Pain or health conditions", "Mental health issues", "Shift work", "Age-related changes"],
+      "impacts": ["Daytime fatigue", "Difficulty concentrating", "Mood problems and irritability", "Weakened immune system", "Increased anxiety and depression", "Accidents or errors", "Weight gain"],
+      "immediate_relief": [
+        "No screens 1 hour before bed: Blue light disrupts melatonin",
+        "Cool, dark room: Temperature 60-67°F is ideal",
+        "White noise: Fan, app, or nature sounds",
+        "Warm milk or chamomile tea: Contains sleep-promoting compounds",
+        "Warm bath: Drops body temperature after, promoting sleep",
+        "Avoid clock watching: Increases anxiety about not sleeping"
+      ],
+      "long_term_solutions": [
+        "Consistent schedule: Same sleep/wake time daily (even weekends)",
+        "No caffeine after 2 PM: Half-life is 5-6 hours",
+        "Exercise: But not within 3 hours of bed",
+        "Limit alcohol: Disrupts sleep quality despite making you drowsy",
+        "Optimize bedroom: Dark, quiet, cool, comfortable",
+        "CBT-I: Cognitive behavioral therapy for insomnia (very effective)",
+        "Meditation or progressive relaxation before bed",
+        "Limit naps: Short 20-30 minute naps only"
+      ],
+      "when_to_seek_help": "If sleep issues persist 3+ months despite lifestyle changes, or if you're experiencing loud snoring or breathing stops",
+      "resources": ["Sleep Foundation", "Calm or Insight Timer apps", "Sleep specialist doctor"]
+    },
+
+    "self_esteem": {
+      "keywords": ["self-esteem", "worthless", "not good enough", "confidence", "insecure", "doubt myself", "unlovable"],
+      "definition": "Self-esteem is how you view and value yourself. Low self-esteem involves persistent self-doubt, negative self-talk, and feeling unworthy.",
+      "types": ["Situational low self-esteem (specific areas)", "General low self-esteem (overall feeling)", "Fragile self-esteem (overly dependent on others' approval)"],
+      "root_causes": ["Childhood experiences or criticism", "Bullying or rejection", "Comparison with others", "Perfectionism", "Failure or setbacks", "Negative self-talk patterns", "Social media comparison", "Lack of support"],
+      "impacts": ["Avoiding challenges or new opportunities", "Accepting mistreatment", "Difficulty setting boundaries", "Perfectionism and overworking", "Social anxiety", "Depression and anxiety", "Self-sabotage", "Seeking constant validation"],
+      "immediate_relief": [
+        "Stop comparing: Unfollow social media accounts that trigger comparison",
+        "Self-compassion: Talk to yourself like a good friend",
+        "Celebrate small wins: Acknowledge daily accomplishments",
+        "Limit negative self-talk: Notice and challenge critical thoughts",
+        "Spend time with supportive people: Avoid critical people",
+        "Do something you're good at: Builds confidence"
+      ],
+      "long_term_solutions": [
+        "Identify negative beliefs: Where did 'I'm not good enough' come from?",
+        "Challenge thinking patterns: Question evidence for negative thoughts",
+        "Build competence: Learn skills and practice",
+        "Set and achieve small goals: Builds self-trust",
+        "Practice self-compassion: Treat yourself with kindness",
+        "Therapy: Address root causes and rebuild esteem",
+        "Gratitude practice: Daily appreciation for yourself",
+        "Limit social media: Reduces comparison"
+      ],
+      "when_to_seek_help": "If low self-esteem leads to depression, anxiety, self-harm, or prevents you from pursuing opportunities",
+      "resources": ["Therapist or counselor", "Self-help books on self-compassion", "Support groups"]
+    },
+
+    "dopamine": {
+      "keywords": ["dopamine", "motivation", "unmotivated", "can't focus", "addiction", "reward", "pleasure"],
+      "definition": "Dopamine is a brain chemical linked to motivation, pleasure, and focus. Dopamine dysregulation causes lack of motivation, difficulty concentrating, and addiction-like behavior.",
+      "types": ["Low dopamine (lack of motivation)", "Dopamine addiction (seeking constant stimulation)", "Dopamine dysregulation (dysregulated reward system)"],
+      "root_causes": ["Excessive social media or gaming", "Substance use", "Chronic stress", "Sleep deprivation", "Lack of novelty or challenge", "Depression or ADHD", "Poor diet", "Sedentary lifestyle"],
+      "impacts": ["Lack of motivation for important tasks", "Difficulty with focus and attention", "Seeking constant stimulation", "Anhedonia (can't enjoy things)", "Procrastination", "Addiction-like behaviors", "Depression", "Social withdrawal"],
+      "immediate_relief": [
+        "Dopamine detox: 24-48 hours without stimulating activities (no phone, games, social media)",
+        "Cold exposure: Cold shower activates dopamine",
+        "Movement: Exercise immediately increases dopamine",
+        "Sunlight: 15-30 minutes outdoors",
+        "Accomplishment: Complete one small task for dopamine hit",
+        "Limit artificial stimulation: Reduce phone, social media, gaming"
+      ],
+      "long_term_solutions": [
+        "Dopamine fasting: Regular periods without stimulation",
+        "Gradually increase dopamine baseline: Healthy activities only",
+        "Exercise regularly: 30 minutes 4-5 times weekly",
+        "Set meaningful goals: Work toward them for natural dopamine",
+        "Improve sleep: Critical for dopamine regulation",
+        "Reduce processed foods: Especially sugar and processed carbs",
+        "Social connection: Meaningful relationships boost dopamine",
+        "Novelty and challenge: New skills and activities"
+      ],
+      "when_to_seek_help": "If unable to function without constant stimulation, or if dopamine-seeking behaviors are harmful",
+      "resources": ["ADHD specialists", "Addiction counseling if substance-related", "Neuroplasticity-focused therapy"]
+    },
+
+    "loneliness": {
+      "keywords": ["lonely", "loneliness", "isolated", "alone", "no one understands", "disconnected", "friendless"],
+      "definition": "Loneliness is the painful feeling of disconnection from others. It's not about being alone, but feeling alone even around people.",
+      "types": ["Social loneliness (lack of social network)", "Emotional loneliness (lack of close relationships)", "Existential loneliness (feeling fundamentally alone)", "Situational loneliness (temporary, after loss or move)"],
+      "root_causes": ["Social anxiety", "Moving to new place", "Loss of relationships", "Social media replacing real connection", "Introversion (not same as loneliness)", "Grief or major life change", "Lack of shared interests", "Work or life circumstances"],
+      "impacts": ["Depression and anxiety", "Poor physical health", "Weakened immune system", "Increased mortality risk", "Self-isolation (worsens loneliness)", "Negative self-perception", "Substance abuse"],
+      "immediate_relief": [
+        "Reach out: Text or call someone, even briefly",
+        "Online connection: Discord, Reddit, or interest-based communities",
+        "Volunteer: Help others, meet people with shared values",
+        "Go to public spaces: Coffee shop, library, gym",
+        "Join a group: Hobby, exercise, book club, class",
+        "Social media: Connect meaningfully, not passively scrolling"
+      ],
+      "long_term_solutions": [
+        "Build relationships gradually: Small interactions first",
+        "Find your people: Join groups around genuine interests",
+        "Maintain relationships: Consistent contact with people you like",
+        "Address social anxiety: Therapy to overcome fear",
+        "Quality over quantity: One deep friendship beats many shallow",
+        "Self-love: Enjoy your own company first",
+        "Community involvement: Regular group activities",
+        "Professional help: Therapy if depression develops"
+      ],
+      "when_to_seek_help": "If loneliness leads to depression, suicidal thoughts, or prevents you from functioning",
+      "resources": ["Meetup.com for interest-based groups", "7 Cups for emotional support", "Therapist or counselor"]
+    },
+
+    "burnout": {
+      "keywords": ["burnout", "exhausted", "can't do this", "overwhelmed at work", "cynical", "detached", "lost passion"],
+      "definition": "Burnout is emotional exhaustion from chronic work stress. It involves exhaustion, cynicism, and reduced effectiveness. It's different from regular tiredness.",
+      "types": ["Work burnout (job-related)", "Caregiver burnout (caring for others)", "Student burnout (academic pressure)", "Parental burnout"],
+      "root_causes": ["Excessive workload", "Lack of control or autonomy", "Unclear expectations", "Lack of support or recognition", "Work-life imbalance", "Perfectionism", "Job mismatch", "Toxic work culture"],
+      "impacts": ["Physical exhaustion despite rest", "Cynicism and detachment", "Reduced productivity and motivation", "Health problems", "Depression and anxiety", "Relationship strain", "Cynical attitude toward work"],
+      "immediate_relief": [
+        "Take time off: Full days without work thoughts",
+        "Set boundaries: No work outside work hours",
+        "Delegate tasks: You can't do everything",
+        "Take short breaks: Hourly 5-minute pauses",
+        "Physical activity: Releases stress hormones",
+        "Talk about it: Share struggles with trusted person",
+        "Do something fun: Hobbies unrelated to work"
+      ],
+      "long_term_solutions": [
+        "Reassess job fit: Is this the right role?",
+        "Improve work-life balance: Non-negotiable personal time",
+        "Communicate with manager: About workload and support",
+        "Develop hobbies: Identity beyond work",
+        "Regular exercise: 4-5 times weekly",
+        "Professional help: Therapy or coaching",
+        "Consider job change: If workplace is toxic",
+        "Build support network: Close relationships"
+      ],
+      "when_to_seek_help": "If burnout causes depression, health problems, or you're considering quitting without a plan",
+      "resources": ["Career coach or counselor", "HR resources or EAP", "Job search support if needed"]
+    }
+  }
+}
